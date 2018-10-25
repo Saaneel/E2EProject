@@ -1,0 +1,8 @@
+20:39:33.201 [main] INFO  resources.base - Navigate to home page
+20:39:33.251 [main] INFO  resources.base - Successfully validated
+20:39:42.960 [main] INFO  resources.base - Navigation bar is displyed
+22:13:45.324 [main] INFO  resources.base - Restricted Users
+22:13:53.755 [main] INFO  resources.base - Non Restricted Users
+22:13:57.123 [main] INFO  resources.base - Driver is initialized
+22:14:03.388 [main] INFO  resources.base - Navigate to home page
+22:14:03.441 [main] INFO  resources.base - Successfully validated
